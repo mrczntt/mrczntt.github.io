@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marco Zanetti</title>
+    <link>https://mrczntt.com/en/</link>
+    <description>Recent content on Marco Zanetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 19 Oct 2022 23:15:54 +0200</lastBuildDate><atom:link href="https://mrczntt.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cbzconv</title>
+      <link>https://mrczntt.com/en/projects/cbzconv/</link>
+      <pubDate>Wed, 19 Oct 2022 23:15:54 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/projects/cbzconv/</guid>
+      <description>Convert CBZ/CBR/CBT archives into PDFs</description>
+    </item>
+    
+    <item>
+      <title>How to reinstall the bootloader [Windows/Linux]</title>
+      <link>https://mrczntt.com/en/blog/how-to-bootloader-uefi/</link>
+      <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/how-to-bootloader-uefi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to boot your PC into a EFI shell</title>
+      <link>https://mrczntt.com/en/blog/how-to-efi-shell/</link>
+      <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/how-to-efi-shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to restore missing man pages on openSUSE</title>
+      <link>https://mrczntt.com/en/blog/how-to-opensuse-man/</link>
+      <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/how-to-opensuse-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 10 LTSC: The best* edition of Windows 10</title>
+      <link>https://mrczntt.com/en/blog/intro-windows-ltsc/</link>
+      <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/intro-windows-ltsc/</guid>
+      <description>*not for everyone</description>
+    </item>
+    
+    <item>
+      <title>Storage Spaces: An introduction</title>
+      <link>https://mrczntt.com/en/blog/intro-storage-spaces/</link>
+      <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/intro-storage-spaces/</guid>
+      <description>A different way to archive your data</description>
+    </item>
+    
+  </channel>
+</rss>
