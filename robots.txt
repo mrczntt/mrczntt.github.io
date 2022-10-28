@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mzanetti.xyz/sitemap.xml
