@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mrczntt.com/blog/</loc>
+    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrczntt.com/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrczntt.com/blog/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/</loc>
+    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrczntt.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrczntt.com/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/blog/intro-pass/</loc>
+    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrczntt.com/en/blog/intro-pass/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://mrczntt.com/blog/intro-pass/"
+                />
+  </url><url>
     <loc>https://mrczntt.com/projects/cbzconv/</loc>
     <lastmod>2022-10-19T23:15:54+02:00</lastmod>
     <xhtml:link
@@ -13,19 +52,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://mrczntt.com/projects/cbzconv/"
-                />
-  </url><url>
-    <loc>https://mrczntt.com/</loc>
-    <lastmod>2022-10-19T23:15:54+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/"
                 />
   </url><url>
     <loc>https://mrczntt.com/projects/</loc>
@@ -41,56 +67,56 @@
                 href="https://mrczntt.com/projects/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/</loc>
-    <lastmod>2022-08-12T21:50:41+02:00</lastmod>
+    <loc>https://mrczntt.com/blog/reinstall-grub/</loc>
+    <lastmod>2022-08-12T22:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrczntt.com/en/blog/"
+                href="https://mrczntt.com/en/blog/reinstall-grub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mrczntt.com/blog/"
+                href="https://mrczntt.com/blog/reinstall-grub/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/how-to-bootloader-uefi/</loc>
+    <loc>https://mrczntt.com/blog/reinstall-windows-bootloader/</loc>
     <lastmod>2022-08-12T21:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrczntt.com/en/blog/how-to-bootloader-uefi/"
+                href="https://mrczntt.com/en/blog/reinstall-windows-bootloader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mrczntt.com/blog/how-to-bootloader-uefi/"
+                href="https://mrczntt.com/blog/reinstall-windows-bootloader/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/how-to-efi-shell/</loc>
+    <loc>https://mrczntt.com/blog/boot-from-efi-shell/</loc>
     <lastmod>2022-07-20T12:26:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrczntt.com/en/blog/how-to-efi-shell/"
+                href="https://mrczntt.com/en/blog/boot-from-efi-shell/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mrczntt.com/blog/how-to-efi-shell/"
+                href="https://mrczntt.com/blog/boot-from-efi-shell/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/how-to-opensuse-man/</loc>
+    <loc>https://mrczntt.com/blog/missing-manpages-opensuse/</loc>
     <lastmod>2022-07-01T15:05:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrczntt.com/en/blog/how-to-opensuse-man/"
+                href="https://mrczntt.com/en/blog/missing-manpages-opensuse/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://mrczntt.com/blog/how-to-opensuse-man/"
+                href="https://mrczntt.com/blog/missing-manpages-opensuse/"
                 />
   </url><url>
     <loc>https://mrczntt.com/blog/intro-windows-ltsc/</loc>

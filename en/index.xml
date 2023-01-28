@@ -6,7 +6,16 @@
     <description>Recent content on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 23:15:54 +0200</lastBuildDate><atom:link href="https://mrczntt.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate><atom:link href="https://mrczntt.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeping your passwords safe with pass</title>
+      <link>https://mrczntt.com/en/blog/intro-pass/</link>
+      <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/intro-pass/</guid>
+      <description>Password management, done the UNIX™ way</description>
+    </item>
+    
     <item>
       <title>cbzconv</title>
       <link>https://mrczntt.com/en/projects/cbzconv/</link>
@@ -17,29 +26,38 @@
     </item>
     
     <item>
-      <title>How to reinstall the bootloader [Windows/Linux]</title>
-      <link>https://mrczntt.com/en/blog/how-to-bootloader-uefi/</link>
-      <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
+      <title>How to reinstall the bootloader (GRUB)</title>
+      <link>https://mrczntt.com/en/blog/reinstall-grub/</link>
+      <pubDate>Fri, 12 Aug 2022 22:50:41 +0200</pubDate>
       
-      <guid>https://mrczntt.com/en/blog/how-to-bootloader-uefi/</guid>
+      <guid>https://mrczntt.com/en/blog/reinstall-grub/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to boot your PC into a EFI shell</title>
-      <link>https://mrczntt.com/en/blog/how-to-efi-shell/</link>
+      <title>How to reinstall the bootloader (Windows)</title>
+      <link>https://mrczntt.com/en/blog/reinstall-windows-bootloader/</link>
+      <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
+      
+      <guid>https://mrczntt.com/en/blog/reinstall-windows-bootloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to boot from an EFI shell</title>
+      <link>https://mrczntt.com/en/blog/boot-from-efi-shell/</link>
       <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
       
-      <guid>https://mrczntt.com/en/blog/how-to-efi-shell/</guid>
+      <guid>https://mrczntt.com/en/blog/boot-from-efi-shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to restore missing man pages on openSUSE</title>
-      <link>https://mrczntt.com/en/blog/how-to-opensuse-man/</link>
+      <link>https://mrczntt.com/en/blog/missing-manpages-opensuse/</link>
       <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
       
-      <guid>https://mrczntt.com/en/blog/how-to-opensuse-man/</guid>
+      <guid>https://mrczntt.com/en/blog/missing-manpages-opensuse/</guid>
       <description></description>
     </item>
     
