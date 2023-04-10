@@ -10,7 +10,7 @@
 <meta name="description" content="Posts about interesting hardware and software">
 <meta name="author" content="Marco Zanetti">
 <link rel="canonical" href="https://mrczntt.com/en/blog/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.b183800e2cfbb62c3bce2b2ba56cdb2dd33af76c75cf4550173d5dfebd7c68a6.css" integrity="sha256-sYOADiz7tiw7zisrpWzbLdM692x1z0VQFz1d/r18aKY=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.06f6007af506393c64979b11bc9a724dd99cb664bc485d5a956cd79273a906fa.css" integrity="sha256-BvYAevUGOTxkl5sRvJpyTdmctmS8SF1alWzXknOpBvo=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://mrczntt.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://mrczntt.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://mrczntt.com/favicon-32x32.png">
@@ -128,7 +128,14 @@
                 </ul>
             </div>
         </div>
-        <ul id="menu">
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+		        <line x1="3" y1="12" x2="21" y2="12"></line>
+		        <line x1="3" y1="6" x2="21" y2="6"></line>
+		        <line x1="3" y1="18" x2="21" y2="18"></line>
+	        </svg>
+        </button>
+        <ul class="menu hidden">
             <li>
                 <a href="https://mrczntt.com/en/blog/" title="Blog">
                     <span class="active">Blog</span>
@@ -232,7 +239,22 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><script>
+	
+	let b = document.querySelector("#menu-trigger")
+	let m = document.querySelector(".menu")
+	b.addEventListener("click", function () {
+		m.classList.toggle("hidden")
+	});
+	
+	document.body.addEventListener('click', function (event) {
+		if (!b.contains(event.target)) {
+			m.classList.add("hidden")
+		}
+	});
+	
+</script>
+
 
 <script>
     let menu = document.getElementById('menu')
