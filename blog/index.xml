@@ -5,70 +5,58 @@
     <link>https://mrczntt.com/blog/</link>
     <description>Recent content in Blog on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
     <copyright> </copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate><atom:link href="https://mrczntt.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate>
+    <atom:link href="https://mrczntt.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tenere le password al sicuro con pass</title>
-      <link>https://mrczntt.com/blog/intro-pass/</link>
+      <title>Keeping your passwords safe with pass</title>
+      <link>https://mrczntt.com/blog/overview-pass/</link>
       <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
-      
-      <guid>https://mrczntt.com/blog/intro-pass/</guid>
-      <description>Password management alla UNIX™</description>
+      <guid>https://mrczntt.com/blog/overview-pass/</guid>
+      <description>Password management, done the UNIX™ way</description>
     </item>
-    
     <item>
-      <title>Come reinstallare il bootloader (GRUB)</title>
-      <link>https://mrczntt.com/blog/reinstall-grub/</link>
+      <title>How to reinstall GRUB</title>
+      <link>https://mrczntt.com/blog/fix-grub/</link>
       <pubDate>Fri, 12 Aug 2022 22:50:41 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/reinstall-grub/</guid>
+      <guid>https://mrczntt.com/blog/fix-grub/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Come reinstallare il bootloader (Windows)</title>
-      <link>https://mrczntt.com/blog/reinstall-windows-bootloader/</link>
+      <title>How to reinstall the Windows bootloader</title>
+      <link>https://mrczntt.com/blog/fix-windows-bootloader/</link>
       <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/reinstall-windows-bootloader/</guid>
+      <guid>https://mrczntt.com/blog/fix-windows-bootloader/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Come avviare il PC in una shell EFI</title>
-      <link>https://mrczntt.com/blog/boot-from-efi-shell/</link>
+      <title>How to boot from an EFI shell</title>
+      <link>https://mrczntt.com/blog/boot-from-an-efi-shell/</link>
       <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/boot-from-efi-shell/</guid>
+      <guid>https://mrczntt.com/blog/boot-from-an-efi-shell/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Come ripristinare le man pages mancanti su openSUSE</title>
-      <link>https://mrczntt.com/blog/missing-manpages-opensuse/</link>
+      <title>Tumbleweed on WSL: Missing man pages</title>
+      <link>https://mrczntt.com/blog/fix-manpages-tumbleweed/</link>
       <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/missing-manpages-opensuse/</guid>
+      <guid>https://mrczntt.com/blog/fix-manpages-tumbleweed/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Windows 10 LTSC: La migliore* edizione di Windows 10</title>
-      <link>https://mrczntt.com/blog/intro-windows-ltsc/</link>
+      <title>What is Windows 10 LTSC?</title>
+      <link>https://mrczntt.com/blog/overview-windows-ltsc/</link>
       <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/intro-windows-ltsc/</guid>
-      <description>*non per tutti</description>
+      <guid>https://mrczntt.com/blog/overview-windows-ltsc/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Una introduzione a Storage Spaces</title>
-      <link>https://mrczntt.com/blog/intro-storage-spaces/</link>
+      <title>What is Storage Spaces?</title>
+      <link>https://mrczntt.com/blog/overview-storage-spaces/</link>
       <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
-      
-      <guid>https://mrczntt.com/blog/intro-storage-spaces/</guid>
-      <description>Un modo diverso di archiviare i propri dati</description>
+      <guid>https://mrczntt.com/blog/overview-storage-spaces/</guid>
+      <description></description>
     </item>
-    
   </channel>
 </rss>

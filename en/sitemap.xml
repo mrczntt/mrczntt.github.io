@@ -2,195 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mrczntt.com/en/blog/</loc>
+    <loc>https://mrczntt.com/blog/</loc>
     <lastmod>2023-01-27T11:13:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/blog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/intro-pass/</loc>
+    <loc>https://mrczntt.com/blog/overview-pass/</loc>
     <lastmod>2023-01-27T11:13:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/intro-pass/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/overview-pass/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/intro-pass/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/overview-pass/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/</loc>
+    <loc>https://mrczntt.com/</loc>
     <lastmod>2023-01-27T11:13:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/projects/cbzconv/</loc>
+    <loc>https://mrczntt.com/projects/cbzconv/</loc>
     <lastmod>2022-10-19T23:15:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/projects/cbzconv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/projects/cbzconv/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/projects/cbzconv/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/projects/</loc>
+    <loc>https://mrczntt.com/projects/</loc>
     <lastmod>2022-10-19T23:15:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/projects/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/projects/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/projects/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/projects/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/reinstall-grub/</loc>
+    <loc>https://mrczntt.com/blog/fix-grub/</loc>
     <lastmod>2022-08-12T22:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/reinstall-grub/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/fix-grub/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/reinstall-grub/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/fix-grub/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/reinstall-windows-bootloader/</loc>
+    <loc>https://mrczntt.com/blog/fix-windows-bootloader/</loc>
     <lastmod>2022-08-12T21:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/reinstall-windows-bootloader/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/fix-windows-bootloader/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/reinstall-windows-bootloader/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/fix-windows-bootloader/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/boot-from-efi-shell/</loc>
+    <loc>https://mrczntt.com/blog/boot-from-an-efi-shell/</loc>
     <lastmod>2022-07-20T12:26:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/boot-from-efi-shell/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/boot-from-an-efi-shell/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/boot-from-efi-shell/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/boot-from-an-efi-shell/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/missing-manpages-opensuse/</loc>
+    <loc>https://mrczntt.com/blog/fix-manpages-tumbleweed/</loc>
     <lastmod>2022-07-01T15:05:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/missing-manpages-opensuse/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/fix-manpages-tumbleweed/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/missing-manpages-opensuse/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/fix-manpages-tumbleweed/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/intro-windows-ltsc/</loc>
+    <loc>https://mrczntt.com/blog/overview-windows-ltsc/</loc>
     <lastmod>2022-06-27T01:18:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/intro-windows-ltsc/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/overview-windows-ltsc/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/intro-windows-ltsc/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/overview-windows-ltsc/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/blog/intro-storage-spaces/</loc>
+    <loc>https://mrczntt.com/blog/overview-storage-spaces/</loc>
     <lastmod>2022-06-24T10:25:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/blog/intro-storage-spaces/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/overview-storage-spaces/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/blog/intro-storage-spaces/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/overview-storage-spaces/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/en/categories/</loc>
+    <loc>https://mrczntt.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/categories/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/q2a/</loc>
+    <loc>https://mrczntt.com/q2a/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/q2a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/q2a/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/q2a/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/series/</loc>
+    <loc>https://mrczntt.com/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
                 href="https://mrczntt.com/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/series/"
-                />
   </url><url>
-    <loc>https://mrczntt.com/en/tags/</loc>
+    <loc>https://mrczntt.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://mrczntt.com/tags/"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrczntt.com/en/tags/"
+                hreflang="en-GB"
+                href="https://mrczntt.com/tags/"
                 />
   </url>
 </urlset>

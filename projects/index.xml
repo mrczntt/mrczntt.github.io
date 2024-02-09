@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Progetti on Marco Zanetti</title>
+    <title>Projects on Marco Zanetti</title>
     <link>https://mrczntt.com/projects/</link>
-    <description>Recent content in Progetti on Marco Zanetti</description>
+    <description>Recent content in Projects on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 23:15:54 +0200</lastBuildDate><atom:link href="https://mrczntt.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 23:15:54 +0200</lastBuildDate>
+    <atom:link href="https://mrczntt.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cbzconv</title>
       <link>https://mrczntt.com/projects/cbzconv/</link>
       <pubDate>Wed, 19 Oct 2022 23:15:54 +0200</pubDate>
-      
       <guid>https://mrczntt.com/projects/cbzconv/</guid>
-      <description>Convertitore di archivi CBZ/CBR/CBT in PDF</description>
+      <description>Convert CBZ/CBR/CBT archives into PDFs</description>
     </item>
-    
   </channel>
 </rss>

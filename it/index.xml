@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marco Zanetti</title>
+    <link>https://mrczntt.com/it/</link>
+    <description>Recent content on Marco Zanetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <copyright> </copyright>
+    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate>
+    <atom:link href="https://mrczntt.com/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenere le password al sicuro con pass</title>
+      <link>https://mrczntt.com/it/blog/overview-pass/</link>
+      <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
+      <guid>https://mrczntt.com/it/blog/overview-pass/</guid>
+      <description>Password management alla UNIX™</description>
+    </item>
+    <item>
+      <title>cbzconv</title>
+      <link>https://mrczntt.com/it/projects/cbzconv/</link>
+      <pubDate>Wed, 19 Oct 2022 23:15:54 +0200</pubDate>
+      <guid>https://mrczntt.com/it/projects/cbzconv/</guid>
+      <description>Convertitore di archivi CBZ/CBR/CBT in PDF</description>
+    </item>
+    <item>
+      <title>Come reinstallare GRUB</title>
+      <link>https://mrczntt.com/it/blog/fix-grub/</link>
+      <pubDate>Fri, 12 Aug 2022 22:50:41 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/fix-grub/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Come reinstallare il bootloader di Windows</title>
+      <link>https://mrczntt.com/it/blog/fix-windows-bootloader/</link>
+      <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/fix-windows-bootloader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Come avviare il PC in una shell EFI</title>
+      <link>https://mrczntt.com/it/blog/boot-from-an-efi-shell/</link>
+      <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/boot-from-an-efi-shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tumbleweed su WSL: Man pages mancanti</title>
+      <link>https://mrczntt.com/it/blog/fix-manpages-tumbleweed/</link>
+      <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/fix-manpages-tumbleweed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cos&#39;è Windows 10 LTSC?</title>
+      <link>https://mrczntt.com/it/blog/overview-windows-ltsc/</link>
+      <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/overview-windows-ltsc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cos&#39;è Storage Spaces?</title>
+      <link>https://mrczntt.com/it/blog/overview-storage-spaces/</link>
+      <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
+      <guid>https://mrczntt.com/it/blog/overview-storage-spaces/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
