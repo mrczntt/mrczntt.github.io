@@ -15,17 +15,17 @@
                 href="https://mrczntt.com/blog/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/overview-pass/</loc>
+    <loc>https://mrczntt.com/blog/setting-up-pass/</loc>
     <lastmod>2023-01-27T11:13:20+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/overview-pass/"
+                href="https://mrczntt.com/it/blog/setting-up-pass/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/overview-pass/"
+                href="https://mrczntt.com/blog/setting-up-pass/"
                 />
   </url><url>
     <loc>https://mrczntt.com/</loc>
@@ -67,82 +67,82 @@
                 href="https://mrczntt.com/projects/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/fix-grub/</loc>
+    <loc>https://mrczntt.com/blog/how-to-reinstall-grub/</loc>
     <lastmod>2022-08-12T22:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/fix-grub/"
+                href="https://mrczntt.com/it/blog/how-to-reinstall-grub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/fix-grub/"
+                href="https://mrczntt.com/blog/how-to-reinstall-grub/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/fix-windows-bootloader/</loc>
+    <loc>https://mrczntt.com/blog/how-to-reinstall-windows-bootloader/</loc>
     <lastmod>2022-08-12T21:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/fix-windows-bootloader/"
+                href="https://mrczntt.com/it/blog/how-to-reinstall-windows-bootloader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/fix-windows-bootloader/"
+                href="https://mrczntt.com/blog/how-to-reinstall-windows-bootloader/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/boot-from-an-efi-shell/</loc>
+    <loc>https://mrczntt.com/blog/how-to-boot-from-an-efi-shell/</loc>
     <lastmod>2022-07-20T12:26:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/boot-from-an-efi-shell/"
+                href="https://mrczntt.com/it/blog/how-to-boot-from-an-efi-shell/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/boot-from-an-efi-shell/"
+                href="https://mrczntt.com/blog/how-to-boot-from-an-efi-shell/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/fix-manpages-tumbleweed/</loc>
+    <loc>https://mrczntt.com/blog/missing-manpages-tumbleweed-wsl/</loc>
     <lastmod>2022-07-01T15:05:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/fix-manpages-tumbleweed/"
+                href="https://mrczntt.com/it/blog/missing-manpages-tumbleweed-wsl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/fix-manpages-tumbleweed/"
+                href="https://mrczntt.com/blog/missing-manpages-tumbleweed-wsl/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/overview-windows-ltsc/</loc>
+    <loc>https://mrczntt.com/blog/what-is-windows-ltsc/</loc>
     <lastmod>2022-06-27T01:18:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/overview-windows-ltsc/"
+                href="https://mrczntt.com/it/blog/what-is-windows-ltsc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/overview-windows-ltsc/"
+                href="https://mrczntt.com/blog/what-is-windows-ltsc/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/overview-storage-spaces/</loc>
+    <loc>https://mrczntt.com/blog/what-is-storage-spaces/</loc>
     <lastmod>2022-06-24T10:25:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/overview-storage-spaces/"
+                href="https://mrczntt.com/it/blog/what-is-storage-spaces/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/overview-storage-spaces/"
+                href="https://mrczntt.com/blog/what-is-storage-spaces/"
                 />
   </url><url>
     <loc>https://mrczntt.com/categories/</loc>

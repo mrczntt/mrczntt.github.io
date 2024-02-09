@@ -11,51 +11,51 @@
     <atom:link href="https://mrczntt.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keeping your passwords safe with pass</title>
-      <link>https://mrczntt.com/blog/overview-pass/</link>
+      <link>https://mrczntt.com/blog/setting-up-pass/</link>
       <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
-      <guid>https://mrczntt.com/blog/overview-pass/</guid>
+      <guid>https://mrczntt.com/blog/setting-up-pass/</guid>
       <description>Password management, done the UNIX™ way</description>
     </item>
     <item>
       <title>How to reinstall GRUB</title>
-      <link>https://mrczntt.com/blog/fix-grub/</link>
+      <link>https://mrczntt.com/blog/how-to-reinstall-grub/</link>
       <pubDate>Fri, 12 Aug 2022 22:50:41 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/fix-grub/</guid>
+      <guid>https://mrczntt.com/blog/how-to-reinstall-grub/</guid>
       <description></description>
     </item>
     <item>
       <title>How to reinstall the Windows bootloader</title>
-      <link>https://mrczntt.com/blog/fix-windows-bootloader/</link>
+      <link>https://mrczntt.com/blog/how-to-reinstall-windows-bootloader/</link>
       <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/fix-windows-bootloader/</guid>
+      <guid>https://mrczntt.com/blog/how-to-reinstall-windows-bootloader/</guid>
       <description></description>
     </item>
     <item>
       <title>How to boot from an EFI shell</title>
-      <link>https://mrczntt.com/blog/boot-from-an-efi-shell/</link>
+      <link>https://mrczntt.com/blog/how-to-boot-from-an-efi-shell/</link>
       <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/boot-from-an-efi-shell/</guid>
+      <guid>https://mrczntt.com/blog/how-to-boot-from-an-efi-shell/</guid>
       <description></description>
     </item>
     <item>
       <title>Tumbleweed on WSL: Missing man pages</title>
-      <link>https://mrczntt.com/blog/fix-manpages-tumbleweed/</link>
+      <link>https://mrczntt.com/blog/missing-manpages-tumbleweed-wsl/</link>
       <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/fix-manpages-tumbleweed/</guid>
+      <guid>https://mrczntt.com/blog/missing-manpages-tumbleweed-wsl/</guid>
       <description></description>
     </item>
     <item>
       <title>What is Windows 10 LTSC?</title>
-      <link>https://mrczntt.com/blog/overview-windows-ltsc/</link>
+      <link>https://mrczntt.com/blog/what-is-windows-ltsc/</link>
       <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/overview-windows-ltsc/</guid>
+      <guid>https://mrczntt.com/blog/what-is-windows-ltsc/</guid>
       <description></description>
     </item>
     <item>
       <title>What is Storage Spaces?</title>
-      <link>https://mrczntt.com/blog/overview-storage-spaces/</link>
+      <link>https://mrczntt.com/blog/what-is-storage-spaces/</link>
       <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/overview-storage-spaces/</guid>
+      <guid>https://mrczntt.com/blog/what-is-storage-spaces/</guid>
       <description></description>
     </item>
   </channel>
