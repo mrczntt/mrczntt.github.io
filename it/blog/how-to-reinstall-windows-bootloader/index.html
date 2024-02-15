@@ -10,7 +10,7 @@
 <meta name="description" content="Come reinstallare il bootloader di Windows - Marco Zanetti">
 <meta name="author" content="Marco Zanetti">
 <link rel="canonical" href="https://mrczntt.com/it/blog/how-to-reinstall-windows-bootloader/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9627b28e2155a36e2dcf23c7df8bf86a3abb1a1df15c0e4d5a688256801e5204.css" integrity="sha256-lieyjiFVo24tzyPH34v4ajq7Gh3xXA5NWmiCVoAeUgQ=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://mrczntt.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://mrczntt.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://mrczntt.com/favicon-32x32.png">
@@ -98,8 +98,8 @@
   "keywords": [
     
   ],
-  "articleBody": "Il bootloader è una componente molto semplice ma cruciale di Windows. È il primo programma che viene eseguito all’avvio del computer ed ha il compito di individuare i sistemi operativi installati e di avviarli. Se mai il bootloader dovesse avere problemi diventa impossibile avviare il sistema. In questi casi, la soluzione più semplice è reinstallare il bootloader 👇\nAvvio da USB Come prima cosa dovrete ottenere l’immagine disco della vostra versione di Windows e scriverla su una chiavetta USB. Se avete un secondo computer con Windows potete scaricare dal sito web Microsoft lo strumento di creazione di supporti, che provvederà a scaricare il file immagine della versione di Windows più recente e a scriverlo sulla chiavetta. Altrimenti dovrete scaricare il file immagine direttamente ed usare un programma di terze parti (come balenaEtcher o Rufus) per la scrittura su chiavetta.\nAvviate il PC dalla chiavetta USB. Una volta davanti alla schermata di installazione, premete “Avanti” e poi “Ripristina il computer”. Nella schermata successiva, selezionate “Risoluzione dei problemi” poi “Opzioni avanzate” ed infine “Prompt dei comandi”.\nReinstallazione del bootloader La procedura varia a seconda del firmware del computer, UEFI oppure Legacy BIOS.\nUEFI Eseguite diskpart. Appena l’utilità si è avviata, inserite il comando list disk.\nIndividuate il numero del disco sul quale Windows è stato installato ed assicuratevi che alla partizione principale NTFS sia stata assegnata la lettera C:\nsel disk list vol Ora selezionate il volume corrispondente alla partizione di sistema EFI ed assegnate ad esso una lettera, ad esempio N:\nsel vol assign letter=N: Uscite da diskpart digitando exit, poi digitate questi due comandi:\nformat N: /FS:FAT32 bcdboot C:\\Windows /s N: /f UEFI exit Legacy BIOS Digitate i seguenti comandi:\nbootrec /FixMbr bootrec /FixBoot bootrec /ScanOs bootrec /RebuildBcd exit ⚠️ Se questi comandi non dovessero risolvere il problema o producono errori, digitate invece questi comandi:\nbootsect /nt60 SYS /mbr exit Conclusione Riavvate il PC. A questo punto tutto dovrebbe funzionare come dovrebbe ✌️\n",
-  "wordCount" : "325",
+  "articleBody": "Il bootloader è una componente molto semplice ma cruciale di Windows. È il primo programma che viene eseguito all’avvio del computer ed ha il compito di individuare i sistemi operativi installati e di avviarli. Se mai il bootloader dovesse avere problemi diventa impossibile avviare il sistema. In questi casi, la soluzione più semplice è reinstallare il bootloader 👇\nAvvio da USB Come prima cosa dovrete ottenere l’immagine disco della vostra versione di Windows e scriverla su una chiavetta USB. Se avete un secondo computer con Windows potete scaricare dal sito web Microsoft lo strumento di creazione di supporti, che provvederà a scaricare il file immagine della versione di Windows più recente e a scriverlo sulla chiavetta. Altrimenti dovrete scaricare il file immagine direttamente ed usare un programma di terze parti (come balenaEtcher o Rufus) per la scrittura su chiavetta.\nAvviate il PC dalla chiavetta USB. Una volta davanti alla schermata di installazione, premete “Avanti” e poi “Ripristina il computer”. Nella schermata successiva, selezionate “Risoluzione dei problemi” poi “Opzioni avanzate” ed infine “Prompt dei comandi”.\nReinstallazione del bootloader La procedura varia a seconda del firmware del computer, UEFI oppure Legacy BIOS.\nUEFI Eseguite diskpart. Appena l’utilità si è avviata, inserite il comando list disk.\nIndividuate il numero del disco sul quale Windows è stato installato ed assicuratevi che alla partizione principale NTFS sia stata assegnata la lettera C:\nsel disk list vol Ora selezionate il volume corrispondente alla partizione di sistema EFI ed assegnate ad esso una lettera, ad esempio N:\nsel vol assign letter=N: Uscite da diskpart digitando exit, poi digitate questi due comandi:\nformat N: /FS:FAT32 bcdboot C:\\Windows /s N: /f UEFI exit Legacy BIOS Digitate i seguenti comandi:\nbootrec /FixMbr bootrec /FixBoot bootrec /ScanOs bootrec /RebuildBcd exit ⚠️ Se questi comandi non dovessero risolvere il problema o producono errori, digitate invece questi comandi:\nbootsect /nt60 SYS /mbr exit Riavvate il PC. A questo punto tutto dovrebbe funzionare come dovrebbe ✌️\n",
+  "wordCount" : "324",
   "inLanguage": "it",
   "datePublished": "2022-08-12T21:50:41+02:00",
   "dateModified": "2022-08-12T21:50:41+02:00",
@@ -168,14 +168,7 @@
                 </ul>
             </div>
         </div>
-        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
-		        <line x1="3" y1="12" x2="21" y2="12"></line>
-		        <line x1="3" y1="6" x2="21" y2="6"></line>
-		        <line x1="3" y1="18" x2="21" y2="18"></line>
-	        </svg>
-        </button>
-        <ul class="menu hidden">
+        <ul id="menu">
             <li>
                 <a href="https://mrczntt.com/it/blog/" title="Blog">
                     <span>Blog</span>
@@ -184,11 +177,6 @@
             <li>
                 <a href="https://mrczntt.com/it/projects/" title="Progetti">
                     <span>Progetti</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://mrczntt.com/it/q2a/" title="Q&amp;A">
-                    <span>Q&amp;A</span>
                 </a>
             </li>
         </ul>
@@ -225,11 +213,10 @@
                 <li>
                     <a href="#uefi" aria-label="UEFI">UEFI</a></li>
                 <li>
-                    <a href="#legacy-bios" aria-label="Legacy BIOS">Legacy BIOS</a></li></ul>
+                    <a href="#legacy-bios" aria-label="Legacy BIOS">Legacy BIOS</a>
                 </li>
-                <li>
-                    <a href="#conclusione" aria-label="Conclusione">Conclusione</a>
-                </li>
+            </ul>
+            </li>
             </ul>
         </div>
     </details>
@@ -263,8 +250,7 @@ exit
 </code></pre><p>⚠️ Se questi comandi non dovessero risolvere il problema o producono errori, digitate invece questi comandi:</p>
 <pre tabindex="0"><code>bootsect /nt60 SYS /mbr
 exit
-</code></pre><h2 id="conclusione">Conclusione<a hidden class="anchor" aria-hidden="true" href="#conclusione">#</a></h2>
-<p>Riavvate il PC. A questo punto tutto dovrebbe funzionare come dovrebbe ✌️</p>
+</code></pre><p>Riavvate il PC. A questo punto tutto dovrebbe funzionare come dovrebbe ✌️</p>
 
 
   </div>
@@ -358,7 +344,7 @@ exit
     </main>
     
 <footer class="footer">
-    <span></span>
+    <span>&copy; 2024 <a href="https://mrczntt.com/it/">Marco Zanetti</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
@@ -369,22 +355,7 @@ exit
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a><script>
-	
-	let b = document.querySelector("#menu-trigger")
-	let m = document.querySelector(".menu")
-	b.addEventListener("click", function () {
-		m.classList.toggle("hidden")
-	});
-	
-	document.body.addEventListener('click', function (event) {
-		if (!b.contains(event.target)) {
-			m.classList.add("hidden")
-		}
-	});
-	
-</script>
-
+</a>
 
 <script>
     let menu = document.getElementById('menu')
