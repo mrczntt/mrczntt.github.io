@@ -67,56 +67,56 @@
                 href="https://mrczntt.com/it/projects/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/it/blog/how-to-reinstall-grub/</loc>
+    <loc>https://mrczntt.com/it/tutorials/how-to-reinstall-grub/</loc>
     <lastmod>2022-08-12T22:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/how-to-reinstall-grub/"
+                href="https://mrczntt.com/tutorials/how-to-reinstall-grub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/how-to-reinstall-grub/"
+                href="https://mrczntt.com/it/tutorials/how-to-reinstall-grub/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/it/blog/how-to-reinstall-windows-bootloader/</loc>
+    <loc>https://mrczntt.com/it/tutorials/</loc>
+    <lastmod>2022-08-12T22:50:41+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://mrczntt.com/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/tutorials/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/it/tutorials/how-to-reinstall-windows-bootloader/</loc>
     <lastmod>2022-08-12T21:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/how-to-reinstall-windows-bootloader/"
+                href="https://mrczntt.com/tutorials/how-to-reinstall-windows-bootloader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/how-to-reinstall-windows-bootloader/"
+                href="https://mrczntt.com/it/tutorials/how-to-reinstall-windows-bootloader/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/it/blog/how-to-boot-into-an-efi-shell/</loc>
+    <loc>https://mrczntt.com/it/tutorials/how-to-boot-into-an-efi-shell/</loc>
     <lastmod>2022-07-20T12:26:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/blog/how-to-boot-into-an-efi-shell/"
+                href="https://mrczntt.com/tutorials/how-to-boot-into-an-efi-shell/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/how-to-boot-into-an-efi-shell/"
-                />
-  </url><url>
-    <loc>https://mrczntt.com/it/blog/tumbleweed-wsl-missing-man-pages/</loc>
-    <lastmod>2022-07-01T15:05:14+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://mrczntt.com/blog/tumbleweed-wsl-missing-man-pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/tumbleweed-wsl-missing-man-pages/"
+                href="https://mrczntt.com/it/tutorials/how-to-boot-into-an-efi-shell/"
                 />
   </url><url>
     <loc>https://mrczntt.com/it/blog/what-is-windows-10-ltsc/</loc>

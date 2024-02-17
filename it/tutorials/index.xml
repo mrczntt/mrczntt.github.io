@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorial on Marco Zanetti</title>
+    <link>https://mrczntt.com/it/tutorials/</link>
+    <description>Recent content in Tutorial on Marco Zanetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Fri, 12 Aug 2022 22:50:41 +0200</lastBuildDate>
+    <atom:link href="https://mrczntt.com/it/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come reinstallare GRUB</title>
+      <link>https://mrczntt.com/it/tutorials/how-to-reinstall-grub/</link>
+      <pubDate>Fri, 12 Aug 2022 22:50:41 +0200</pubDate>
+      <guid>https://mrczntt.com/it/tutorials/how-to-reinstall-grub/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Come reinstallare il bootloader di Windows</title>
+      <link>https://mrczntt.com/it/tutorials/how-to-reinstall-windows-bootloader/</link>
+      <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
+      <guid>https://mrczntt.com/it/tutorials/how-to-reinstall-windows-bootloader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Come avviare il computer in una shell EFI</title>
+      <link>https://mrczntt.com/it/tutorials/how-to-boot-into-an-efi-shell/</link>
+      <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
+      <guid>https://mrczntt.com/it/tutorials/how-to-boot-into-an-efi-shell/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
