@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mrczntt.com/blog/</loc>
-    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <lastmod>2024-02-19T18:54:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -15,21 +15,8 @@
                 href="https://mrczntt.com/blog/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/blog/setting-up-pass/</loc>
-    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/setting-up-pass/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://mrczntt.com/blog/setting-up-pass/"
-                />
-  </url><url>
     <loc>https://mrczntt.com/</loc>
-    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <lastmod>2024-02-19T18:54:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -39,6 +26,45 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://mrczntt.com/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/blog/storage-spaces-in-a-nutshell/</loc>
+    <lastmod>2024-02-19T18:54:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/storage-spaces-in-a-nutshell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/storage-spaces-in-a-nutshell/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/blog/understanding-zfs-the-zettabyte-file-system/</loc>
+    <lastmod>2024-02-19T13:17:01+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/understanding-zfs-the-zettabyte-file-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/understanding-zfs-the-zettabyte-file-system/"
+                />
+  </url><url>
+    <loc>https://mrczntt.com/blog/keeping-your-passwords-safe-with-pass/</loc>
+    <lastmod>2023-01-27T11:13:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://mrczntt.com/it/blog/keeping-your-passwords-safe-with-pass/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://mrczntt.com/blog/keeping-your-passwords-safe-with-pass/"
                 />
   </url><url>
     <loc>https://mrczntt.com/projects/cbzconv/</loc>
@@ -93,17 +119,17 @@
                 href="https://mrczntt.com/tutorials/"
                 />
   </url><url>
-    <loc>https://mrczntt.com/tutorials/how-to-reinstall-windows-bootloader/</loc>
+    <loc>https://mrczntt.com/tutorials/how-to-reinstall-the-windows-bootloader/</loc>
     <lastmod>2022-08-12T21:50:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://mrczntt.com/it/tutorials/how-to-reinstall-windows-bootloader/"
+                href="https://mrczntt.com/it/tutorials/how-to-reinstall-the-windows-bootloader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://mrczntt.com/tutorials/how-to-reinstall-windows-bootloader/"
+                href="https://mrczntt.com/tutorials/how-to-reinstall-the-windows-bootloader/"
                 />
   </url><url>
     <loc>https://mrczntt.com/tutorials/how-to-boot-into-an-efi-shell/</loc>
@@ -130,19 +156,6 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://mrczntt.com/blog/what-is-windows-10-ltsc/"
-                />
-  </url><url>
-    <loc>https://mrczntt.com/blog/what-is-storage-spaces/</loc>
-    <lastmod>2022-06-24T10:25:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://mrczntt.com/it/blog/what-is-storage-spaces/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://mrczntt.com/blog/what-is-storage-spaces/"
                 />
   </url><url>
     <loc>https://mrczntt.com/categories/</loc>

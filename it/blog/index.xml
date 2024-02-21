@@ -6,13 +6,27 @@
     <description>Recent content in Blog on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:54:05 +0100</lastBuildDate>
     <atom:link href="https://mrczntt.com/it/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Spazi di archiviazione in pillole</title>
+      <link>https://mrczntt.com/it/blog/storage-spaces-in-a-nutshell/</link>
+      <pubDate>Mon, 19 Feb 2024 18:54:05 +0100</pubDate>
+      <guid>https://mrczntt.com/it/blog/storage-spaces-in-a-nutshell/</guid>
+      <description>Archiviazione veloce e affidabile su Windows</description>
+    </item>
+    <item>
+      <title>Comprendere ZFS, il Zettabyte File System</title>
+      <link>https://mrczntt.com/it/blog/understanding-zfs-the-zettabyte-file-system/</link>
+      <pubDate>Mon, 19 Feb 2024 13:17:01 +0100</pubDate>
+      <guid>https://mrczntt.com/it/blog/understanding-zfs-the-zettabyte-file-system/</guid>
+      <description>Il file system definitivo, così dicono</description>
+    </item>
+    <item>
       <title>Tenere le password al sicuro con pass</title>
-      <link>https://mrczntt.com/it/blog/setting-up-pass/</link>
+      <link>https://mrczntt.com/it/blog/keeping-your-passwords-safe-with-pass/</link>
       <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
-      <guid>https://mrczntt.com/it/blog/setting-up-pass/</guid>
+      <guid>https://mrczntt.com/it/blog/keeping-your-passwords-safe-with-pass/</guid>
       <description>Password management alla UNIX™</description>
     </item>
     <item>
@@ -20,13 +34,6 @@
       <link>https://mrczntt.com/it/blog/what-is-windows-10-ltsc/</link>
       <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
       <guid>https://mrczntt.com/it/blog/what-is-windows-10-ltsc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cos&#39;è Storage Spaces?</title>
-      <link>https://mrczntt.com/it/blog/what-is-storage-spaces/</link>
-      <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
-      <guid>https://mrczntt.com/it/blog/what-is-storage-spaces/</guid>
       <description></description>
     </item>
   </channel>

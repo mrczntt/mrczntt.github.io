@@ -6,13 +6,27 @@
     <description>Recent content on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 27 Jan 2023 11:13:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:54:05 +0100</lastBuildDate>
     <atom:link href="https://mrczntt.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Storage Spaces in a nutshell</title>
+      <link>https://mrczntt.com/blog/storage-spaces-in-a-nutshell/</link>
+      <pubDate>Mon, 19 Feb 2024 18:54:05 +0100</pubDate>
+      <guid>https://mrczntt.com/blog/storage-spaces-in-a-nutshell/</guid>
+      <description>Fast and reliable storage on Windows</description>
+    </item>
+    <item>
+      <title>Understanding ZFS, the Zettabyte File System</title>
+      <link>https://mrczntt.com/blog/understanding-zfs-the-zettabyte-file-system/</link>
+      <pubDate>Mon, 19 Feb 2024 13:17:01 +0100</pubDate>
+      <guid>https://mrczntt.com/blog/understanding-zfs-the-zettabyte-file-system/</guid>
+      <description>The last word in file systems, as they say</description>
+    </item>
+    <item>
       <title>Keeping your passwords safe with pass</title>
-      <link>https://mrczntt.com/blog/setting-up-pass/</link>
+      <link>https://mrczntt.com/blog/keeping-your-passwords-safe-with-pass/</link>
       <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
-      <guid>https://mrczntt.com/blog/setting-up-pass/</guid>
+      <guid>https://mrczntt.com/blog/keeping-your-passwords-safe-with-pass/</guid>
       <description>Password management, done the UNIX™ way</description>
     </item>
     <item>
@@ -31,9 +45,9 @@
     </item>
     <item>
       <title>How to reinstall the Windows bootloader</title>
-      <link>https://mrczntt.com/tutorials/how-to-reinstall-windows-bootloader/</link>
+      <link>https://mrczntt.com/tutorials/how-to-reinstall-the-windows-bootloader/</link>
       <pubDate>Fri, 12 Aug 2022 21:50:41 +0200</pubDate>
-      <guid>https://mrczntt.com/tutorials/how-to-reinstall-windows-bootloader/</guid>
+      <guid>https://mrczntt.com/tutorials/how-to-reinstall-the-windows-bootloader/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +62,6 @@
       <link>https://mrczntt.com/blog/what-is-windows-10-ltsc/</link>
       <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
       <guid>https://mrczntt.com/blog/what-is-windows-10-ltsc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>What is Storage Spaces?</title>
-      <link>https://mrczntt.com/blog/what-is-storage-spaces/</link>
-      <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/what-is-storage-spaces/</guid>
       <description></description>
     </item>
   </channel>
