@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Marco Zanetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 19 Feb 2024 18:54:05 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 10:32:52 +0100</lastBuildDate>
     <atom:link href="https://mrczntt.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows LTSC: What You Need to Know</title>
+      <link>https://mrczntt.com/blog/windows-ltsc-what-you-need-to-know/</link>
+      <pubDate>Mon, 11 Mar 2024 10:32:52 +0100</pubDate>
+      <guid>https://mrczntt.com/blog/windows-ltsc-what-you-need-to-know/</guid>
+      <description>Reliability and performance, but at what cost?</description>
+    </item>
     <item>
       <title>Storage Spaces in a nutshell</title>
       <link>https://mrczntt.com/blog/storage-spaces-in-a-nutshell/</link>
@@ -28,13 +35,6 @@
       <pubDate>Fri, 27 Jan 2023 11:13:20 +0100</pubDate>
       <guid>https://mrczntt.com/blog/keeping-your-passwords-safe-with-pass/</guid>
       <description>Password management, done the UNIX™ way</description>
-    </item>
-    <item>
-      <title>What is Windows 10 LTSC?</title>
-      <link>https://mrczntt.com/blog/what-is-windows-10-ltsc/</link>
-      <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
-      <guid>https://mrczntt.com/blog/what-is-windows-10-ltsc/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
